@@ -25,3 +25,22 @@ DAX (Data Analysis Expressions): For creating custom measures and calculated col
 
 CSV: The format of the source dataset.
 
+Project Files and Folders :
+
+The Dashboard : https://github.com/Abhi26272003/Sales-Supermarket-Analysis/blob/main/Sales%20Supermarket%20Analysis%20Dashboard.pbix
+
+Purpose: This is the most important file for anyone who wants to open and explore your dashboard in Power BI.
+
+The raw data : https://github.com/Abhi26272003/Sales-Supermarket-Analysis/blob/main/Sales_Dataset_proj2.csv
+
+Purpose: Including the original dataset allows others to reproduce your analysis from scratch and verify your findings.
+
+The Screeshot :
+
+Sales supermarket analysis dashoard
+https://github.com/Abhi26272003/Sales-Supermarket-Analysis/blob/main/Sales%20Supermarket%20Analysis%20Dashboard%20Screenshot.png
+
+15 Days Forecasting Dashboard
+https://github.com/Abhi26272003/Sales-Supermarket-Analysis/blob/main/Sales%20Supermarket%20Analysis%20Dashboard%20Screenshot.png
+
+Purpose: These images serve as a visual preview of your work, making it easy for viewers to understand the project's output without having to download any files. You can link to these images directly in your README.md file using markdown to showcase them prominently.
